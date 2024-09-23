@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dui
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack website  
+- 🌱 I’m currently learning full stack website,java application,algorithm
 - 📫 Select any project below to discover my learing process 
 - 😄 Feel free to ask...
 - ⚡ All rights reserved!
